@@ -35,17 +35,17 @@ The dataset contains restaurant details such as:
 ## 🚀 How to Run
 ### 1️⃣ Open in Google Colab
 Click the badge below to run the notebook instantly in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrutii838/YOUR-REPO/blob/main/Restaurant_Recommendation_system.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrutii838/Restaurant_Recommender/blob/main/Restaurant_Recommendation_system.ipynb)
 
 ---
 
 ### 2️⃣ Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/shrutii838/Restaurant_Recommender.git
 
 # Navigate into the folder
-cd YOUR-REPO
+cd Restaurant_Recommender
 
 # Install dependencies
 pip install pandas scikit-learn
