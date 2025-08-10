@@ -35,7 +35,7 @@ The dataset contains restaurant details such as:
 ## 🚀 How to Run
 ### 1️⃣ Open in Google Colab
 Click the badge below to run the notebook instantly in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrutii838/Restaurant_Recommender/blob/main/Restaurant_Recommendation_system.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrutii838/Restaurant_Recommender/blob/main/Restaurant_Reccomendation_system.ipynb)b)
 
 ---
 
