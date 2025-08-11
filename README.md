@@ -20,7 +20,7 @@ Model: **Linear Regression**
 A **content-based filtering** system that recommends restaurants based on **user preferences** like cuisine, price range, online delivery availability, and minimum rating.  
 Model: **TF-IDF + Cosine Similarity**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrutii838/Restaurant_Recommender/blob/main/Restaurant_Recommender.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrutii838/Restaurant_Recommender/blob/main/Restaurant_Reccomendation_system.ipynb)
 
 ---
 
