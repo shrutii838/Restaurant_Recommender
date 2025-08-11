@@ -28,7 +28,7 @@ Model: **TF-IDF + Cosine Similarity**
 Classifies the **primary cuisine** of a restaurant based on price, rating, online delivery availability, and votes.  
 Model: **Random Forest Classifier** (Interactive Prediction Tool)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrutii838/Restaurant_Recommender/blob/main/Cuisine_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shrutii838/Restaurant_Recommender/blob/main/Cuisine_classifier.ipynb)
 
 ---
 
